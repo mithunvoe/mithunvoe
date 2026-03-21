@@ -23,6 +23,16 @@
 - I build Android and backend projects while strengthening core fundamentals in data structures, algorithms, and system design.
 - Based in Dhaka, Bangladesh, and always open to meaningful collaboration and challenging ideas.
 
+## 👾 Contribution Pac-Man
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mithunvoe/mithunvoe/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mithunvoe/mithunvoe/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/mithunvoe/mithunvoe/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
 ## 🛠️ Tech I Use
 
 <p align="center">
@@ -35,6 +45,8 @@
   <img src="https://img.shields.io/badge/Backend-API%20Development-1a1b27?style=for-the-badge&logo=fastapi&logoColor=38bdae" alt="Backend badge" />
   <img src="https://img.shields.io/badge/Currently%20Learning-System%20Design-1a1b27?style=for-the-badge&logo=bookstack&logoColor=70a5fd" alt="Learning badge" />
 </p>
+
+
 
 ## 📊 GitHub Snapshot
 
@@ -49,10 +61,10 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mithunvoe&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=Monthly%20Activity&days=30" alt="Contribution graph" />
 </p>
 
-## 🔥 Streak Meter
+<!-- ## 🔥 Streak Meter -->
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mithunvoe&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=mithunvoe&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <!-- ## 🏆 Achievements
@@ -61,15 +73,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mithunvoe&theme=tokyonight&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub trophies" />
 </p> -->
 
-## 👾 Contribution Pac-Man
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mithunvoe/mithunvoe/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mithunvoe/mithunvoe/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/mithunvoe/mithunvoe/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
 
 ---
 
