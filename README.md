@@ -51,17 +51,15 @@
 ## 📊 GitHub Snapshot
 
 <p align="center">
-  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=mithunvoe&show_icons=true&theme=tokyonight&hide_border=true&title_color=70a5fd&icon_color=bf91f3&include_all_commits=true&count_private=true" alt="Summary stats card" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithunvoe&layout=compact&theme=tokyonight&hide_border=true&title_color=70a5fd&icon_color=bf91f3" alt="Most used languages" />
+  <img width="56%" src="https://github-readme-stats.vercel.app/api?username=mithunvoe&show_icons=true&theme=tokyonight&hide_border=true&title_color=70a5fd&icon_color=bf91f3&include_all_commits=true&count_private=true" alt="Summary stats card" />
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithunvoe&layout=compact&theme=tokyonight&hide_border=true&title_color=70a5fd&icon_color=bf91f3" alt="Most used languages" />
 </p>
 
-## 📈 Activity Graph
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mithunvoe&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=Monthly%20Activity&days=30" alt="Contribution graph" />
 </p>
 
-## 🔥 Streak Meter
 
 <p align="center">
   <img width="100%" src="https://streak-stats.demolab.com?user=mithunvoe&theme=tokyonight&hide_border=true" alt="GitHub streak" />
@@ -74,7 +72,7 @@
 </p> -->
 
 
----
+<!-- --- -->
 
 <p align="center">
   <i>"Code is where logic meets creativity."</i>
