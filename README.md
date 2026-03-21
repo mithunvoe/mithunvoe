@@ -23,6 +23,12 @@
 - I build Android and backend projects while strengthening core fundamentals in data structures, algorithms, and system design.
 - Based in Dhaka, Bangladesh, and always open to meaningful collaboration and challenging ideas.
 
+## 🛠️ Tech I Use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,kotlin,ts,dart,flutter,androidstudio,nodejs,express,mysql,mongodb,git,github,linux,vscode&perline=8" alt="Tech stack icons" />
+</p>
+
 ## 👾 Contribution Pac-Man
 
 <p align="center">
@@ -33,11 +39,6 @@
   </picture>
 </p>
 
-## 🛠️ Tech I Use
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,kotlin,ts,dart,flutter,androidstudio,nodejs,express,mysql,mongodb,git,github,linux,vscode&perline=8" alt="Tech stack icons" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Algorithms-1a1b27?style=for-the-badge&logo=codeforces&logoColor=70a5fd" alt="Algorithms badge" />
@@ -57,12 +58,8 @@
 
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mithunvoe&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=Monthly%20Activity&days=30" alt="Contribution graph" />
-</p>
-
-
-<p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=mithunvoe&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img width="45%" src="https://streak-stats.demolab.com?user=mithunvoe&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img width="54%" src="https://github-readme-activity-graph.vercel.app/graph?username=mithunvoe&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=Monthly%20Activity&days=30" alt="Contribution graph" />
 </p>
 
 <!-- ## 🏆 Achievements
