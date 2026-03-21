@@ -23,6 +23,11 @@
 - My strongest interests are Android development, backend systems, reverse engineering, web security, and low-level debugging.
 - I enjoy difficult problems, meaningful collaboration, and building things that are both fast and reliable.
 
+## 🔗 Competitive Profiles
+
+- [Codeforces](https://codeforces.com/profile/m_ithunvoe)
+- [CodeChef](https://www.codechef.com/users/kabyasaha1812)
+
 ## 🏆 Achievements
 
 - Champion at `DUCTF 2025`.
@@ -32,10 +37,6 @@
 - Reached a peak rating of `1805` on [CodeChef](https://www.codechef.com/users/kabyasaha1812), with `34` rated contests and `151` solved problems.
 - Finished in the `top 10` of a DevOps competition.
 
-## 🔗 Competitive Profiles
-
-- [Codeforces](https://codeforces.com/profile/m_ithunvoe)
-- [CodeChef](https://www.codechef.com/users/kabyasaha1812)
 
 ## 🛠️ Tech I Use
 
@@ -46,26 +47,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,python,kotlin,ts,dart,flutter,androidstudio,nodejs,express,mysql,mongodb,git,github,linux,vscode&perline=8" alt="Tech stack icons" />
 </p>
-
-## 👾 Contribution Pac-Man
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mithunvoe/mithunvoe/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mithunvoe/mithunvoe/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/mithunvoe/mithunvoe/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Algorithms-1a1b27?style=for-the-badge&logo=codeforces&logoColor=70a5fd" alt="Algorithms badge" />
-  <img src="https://img.shields.io/badge/Security-CTF%20Practice-1a1b27?style=for-the-badge&logo=hackthebox&logoColor=bf91f3" alt="CTF badge" />
-  <img src="https://img.shields.io/badge/Backend-API%20Development-1a1b27?style=for-the-badge&logo=fastapi&logoColor=38bdae" alt="Backend badge" />
-  <img src="https://img.shields.io/badge/Currently%20Learning-Distributed%20Systems-1a1b27?style=for-the-badge&logo=bookstack&logoColor=70a5fd" alt="Learning badge" />
-</p>
-
-
 
 ## 📊 GitHub Snapshot
 
@@ -78,6 +59,23 @@
 <p align="center">
   <img width="45%" src="https://streak-stats.demolab.com?user=mithunvoe&theme=tokyonight&hide_border=true" alt="GitHub streak" />
   <img width="54%" src="https://github-readme-activity-graph.vercel.app/graph?username=mithunvoe&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=Monthly%20Activity&days=30" alt="Contribution graph" />
+</p>
+
+## 👾 Contribution Pac-Man
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mithunvoe/mithunvoe/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mithunvoe/mithunvoe/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/mithunvoe/mithunvoe/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Algorithms-1a1b27?style=for-the-badge&logo=codeforces&logoColor=70a5fd" alt="Algorithms badge" />
+  <img src="https://img.shields.io/badge/Security-CTF%20Practice-1a1b27?style=for-the-badge&logo=hackthebox&logoColor=bf91f3" alt="CTF badge" />
+  <img src="https://img.shields.io/badge/Backend-API%20Development-1a1b27?style=for-the-badge&logo=fastapi&logoColor=38bdae" alt="Backend badge" />
+  <img src="https://img.shields.io/badge/Currently%20Learning-Distributed%20Systems-1a1b27?style=for-the-badge&logo=bookstack&logoColor=70a5fd" alt="Learning badge" />
 </p>
 
 <!-- ## 🏆 Achievements
