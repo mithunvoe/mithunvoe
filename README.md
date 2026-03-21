@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:2dd4bf,100:a78bfa&section=header" alt="header border" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:70a5fd,100:bf91f3&section=header" alt="header border" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=2DD4BF&center=true&vCenter=true&width=780&lines=Kabya+Mithun+Saha;Competitive+Programmer+%7C+CTF+Player;Android+%26+Backend+Developer;Building+systems+that+are+fast%2C+clean%2C+and+secure" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=34&pause=1200&color=70A5FD&center=true&vCenter=true&width=920&lines=Hi%2C+I+am+Kabya+Mithun+Saha.;Competitive+Programmer+%7C+CTF+Player;Android+%26+Backend+Developer;Building+systems+that+are+fast%2C+clean%2C+and+secure" alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -18,11 +18,10 @@
 
 ## About Me
 
-- Competitive programmer passionate about algorithms, logic, and performance.
-- CTF player who enjoys reverse engineering and security challenges.
-- Based in Dhaka, Bangladesh.
-- Building practical software while sharpening core CS fundamentals.
-- Open to collaboration on Android, backend, and problem-solving projects.
+- I am a competitive programmer focused on writing fast, clean, and reliable solutions.
+- I actively practice CTF and enjoy reverse engineering, web security, and low-level problem solving.
+- I build Android and backend projects while strengthening core fundamentals in data structures, algorithms, and system design.
+- Based in Dhaka, Bangladesh, and always open to meaningful collaboration and challenging ideas.
 
 ## Tech I Use
 
@@ -40,30 +39,30 @@
 ## GitHub Snapshot
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mithunvoe&theme=github_dark" alt="Summary stats card" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mithunvoe&theme=github_dark&utcOffset=6" alt="Productive time card" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mithunvoe&theme=tokyonight" alt="Summary stats card" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mithunvoe&theme=tokyonight&utcOffset=6" alt="Productive time card" />
 </p>
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mithunvoe&theme=github_dark" alt="Repos per language card" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mithunvoe&theme=github_dark" alt="Most commit language card" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mithunvoe&theme=tokyonight" alt="Repos per language card" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mithunvoe&theme=tokyonight" alt="Most commit language card" />
 </p>
 
 ## Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mithunvoe&bg_color=0d1117&color=2dd4bf&line=a78bfa&point=c9d1d9&area=true&hide_border=true" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mithunvoe&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution graph" />
 </p>
 
 ## Streak Meter
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mithunvoe&hide_border=true&background=0D1117&ring=2DD4BF&fire=A78BFA&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=2DD4BF&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=mithunvoe&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ## Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mithunvoe&theme=algolia&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mithunvoe&theme=tokyonight&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub trophies" />
 </p>
 
 ## Contribution Pac-Man
@@ -82,4 +81,4 @@
   <i>"Code is where logic meets creativity."</i>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:a78bfa,100:2dd4bf&section=footer" alt="footer border" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:bf91f3,100:70a5fd&section=footer" alt="footer border" />
