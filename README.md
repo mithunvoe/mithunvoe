@@ -36,7 +36,6 @@
 
 - [Codeforces](https://codeforces.com/profile/m_ithunvoe)
 - [CodeChef](https://www.codechef.com/users/kabyasaha1812)
-- [GitHub](https://github.com/mithunvoe)
 
 ## 🛠️ Tech I Use
 
