@@ -34,8 +34,8 @@
 - Runner-up at `Al Khwarizmi CTF`, powered by Bangladesh Islami Chatrashibir.
 - Attended `ICPC Regionals` twice and participated in many `IUPCs`.
 - Reached `Expert` on [Codeforces](https://codeforces.com/profile/m_ithunvoe).
-- Reached a peak rating of `1805` on [CodeChef](https://www.codechef.com/users/kabyasaha1812), with `34` rated contests and `151` solved problems.
-- Finished in the `top 10` of a DevOps competition.
+- Reached a peak rating of `1805` (4 star) on [CodeChef](https://www.codechef.com/users/kabyasaha1812).
+- Finished in the `top 10` of the CUET DevOps Hackathon.
 
 
 ## 🛠️ Tech I Use
